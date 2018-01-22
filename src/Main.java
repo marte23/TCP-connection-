@@ -6,7 +6,8 @@
 
 /**
  *
- * @author Informatica
+ * @author Francesco Martellotti
+ * 
  */
 public class Main {
     
